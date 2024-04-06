@@ -1,0 +1,54 @@
+user_id,gender,current_city,batch_start_datetime,referral_source,highest_qualification
+user_1,FEMALE,Hyderabad,2022-02-02 10:00:00,youtube_ad,B.Tech
+user_2,FEMALE,Bengaluru,2022-02-02 10:00:00,user_referral,10th Completed
+user_3,MALE,Visakhapatnam,2022-02-02 10:00:00,website,Degree
+user_4,MALE,Mumbai,2022-02-02 10:00:00,instagram,Intermediate
+user_5,MALE,Hyderabad,2022-02-02 10:00:00,user_referral,M.Tech
+user_6,MALE,Delhi,2022-02-02 10:00:00,instagram,Degree
+user_7,MALE,Kochi,2022-02-02 10:00:00,youtube_ad,B.Tech
+user_8,FEMALE,Mumbai,2022-02-02 10:00:00,website,B.Tech
+user_9,FEMALE,Delhi,2022-02-02 10:00:00,youtube_ad,B.Tech
+user_10,MALE,Visakhapatnam,2022-02-02 10:00:00,user_referral,B.Tech
+user_11,FEMALE,Bengaluru,2022-02-02 10:00:00,instagram,B.Tech
+user_12,MALE,Kochi,2022-02-02 10:00:00,website,B.Tech
+user_13,FEMALE,Visakhapatnam,2022-02-02 10:00:00,instagram,B.Tech
+user_14,MALE,Delhi,2022-02-02 10:00:00,user_referral,Degree
+user_15,FEMALE,Hyderabad,2022-01-08 10:00:00,website,Degree
+user_16,MALE,Mumbai,2022-01-08 10:00:00,instagram,Degree
+user_17,MALE,Bengaluru,2022-01-08 10:00:00,user_referral,Degree
+user_18,MALE,Delhi,2022-01-08 10:00:00,instagram,Degree
+user_19,MALE,Visakhapatnam,2022-01-08 10:00:00,instagram,Degree
+user_20,FEMALE,Hyderabad,2022-01-08 10:00:00,user_referral,Degree
+user_21,MALE,Delhi,2022-01-08 10:00:00,instagram,Degree
+user_22,FEMALE,Bengaluru,2022-01-08 10:00:00,youtube_ad,Degree
+user_23,MALE,Mumbai,2022-01-08 10:00:00,instagram,Degree
+user_24,MALE,Delhi,2022-01-08 10:00:00,instagram,Degree
+user_25,FEMALE,Visakhapatnam,2022-01-08 10:00:00,website,10th Completed
+user_26,MALE,Hyderabad,2021-12-15 10:00:00,instagram,10th Completed
+user_27,MALE,Visakhapatnam,2021-12-15 10:00:00,user_referral,10th Completed
+user_28,FEMALE,Bengaluru,2021-12-15 10:00:00,instagram,10th Completed
+user_29,FEMALE,Kochi,2021-12-15 10:00:00,instagram,10th Completed
+user_30,MALE,Mumbai,2021-12-15 10:00:00,instagram,Intermediate
+user_31,MALE,Hyderabad,2021-12-15 10:00:00,instagram,Intermediate
+user_32,MALE,Bengaluru,2021-12-15 10:00:00,youtube_ad,Intermediate
+user_33,MALE,Mumbai,2021-12-15 10:00:00,user_referral,Intermediate
+user_34,OTHER,Kochi,2021-12-15 10:00:00,instagram,Intermediate
+user_35,MALE,Hyderabad,2021-11-19 10:00:00,user_referral,Intermediate
+user_36,MALE,Kochi,2021-11-19 10:00:00,instagram,Intermediate
+user_37,MALE,Delhi,2021-11-19 10:00:00,instagram,Intermediate
+user_38,FEMALE,Hyderabad,2021-11-19 10:00:00,youtube_ad,Intermediate
+user_39,MALE,Mumbai,2021-11-19 10:00:00,instagram,Intermediate
+user_40,MALE,Bengaluru,2021-11-19 10:00:00,user_referral,B.Tech
+user_41,FEMALE,Visakhapatnam,2021-10-13 10:00:00,instagram,B.Tech
+user_42,MALE,Kochi,2021-10-13 10:00:00,instagram,B.Tech
+user_43,MALE,Delhi,2021-10-13 10:00:00,user_referral,B.Tech
+user_44,FEMALE,Mumbai,2021-10-13 10:00:00,instagram,B.Tech
+user_45,FEMALE,Hyderabad,2021-10-13 10:00:00,website,B.Tech
+user_46,MALE,Bengaluru,2021-10-13 10:00:00,instagram,B.Tech
+user_47,MALE,Mumbai,2021-10-13 10:00:00,instagram,B.Tech
+user_48,FEMALE,Hyderabad,2021-10-13 10:00:00,youtube_ad,B.Tech
+user_49,MALE,Bengaluru,2021-10-13 10:00:00,instagram,B.Tech
+user_50,FEMALE,Visakhapatnam,2021-10-13 10:00:00,youtube_ad,Intermediate
+user_51,MALE,Mumbai,4000-06-01 12:00:00,user_referral,Intermediate
+user_52,FEMALE,Hyderabad,4000-06-01 12:00:00,website,Intermediate
+user_53,FEMALE,Hyderabad,2021-10-13 10:00:00,website,Intermediate

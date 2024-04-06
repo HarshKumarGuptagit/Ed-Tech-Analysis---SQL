@@ -1,0 +1,890 @@
+program_id,program_title,course_id,course_title,topic_id,unit_id,unit_type,unit_duration_in_mins
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_1,PRACTICE,25
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_2,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_3,LEARNING_SET,5
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_4,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_5,PRACTICE,2000
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_6,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_7,LEARNING_SET,60
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_8,QUESTION_SET,80
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_9,LEARNING_SET,45
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_10,LEARNING_SET,35
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_11,QUESTION_SET,105
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_12,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_1,unit_13,LEARNING_SET,60
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_14,QUESTION_SET,120
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_15,LEARNING_SET,20
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_16,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_17,LEARNING_SET,25
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_18,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_19,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_20,LEARNING_SET,35
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_21,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_2,unit_22,PRACTICE,45
+prg_1,Backend Developer,course_1,Node JS,topic_3,unit_23,EXAM,30
+prg_1,Backend Developer,course_1,Node JS,topic_3,unit_24,EXAM,45
+prg_1,Backend Developer,course_1,Node JS,topic_3,unit_25,EXAM,45
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_26,QUESTION_SET,30
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_27,LEARNING_SET,40
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_28,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_29,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_30,LEARNING_SET,40
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_31,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_32,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_33,LEARNING_SET,35
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_34,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_35,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_4,unit_36,QUESTION_SET,90
+prg_1,Backend Developer,course_1,Node JS,topic_5,unit_37,QUESTION_SET,90
+prg_1,Backend Developer,course_1,Node JS,topic_5,unit_38,QUESTION_SET,180
+prg_1,Backend Developer,course_1,Node JS,topic_6,unit_39,LEARNING_SET,20
+prg_1,Backend Developer,course_1,Node JS,topic_6,unit_40,LEARNING_SET,5
+prg_1,Backend Developer,course_1,Node JS,topic_6,unit_41,LEARNING_SET,5
+prg_1,Backend Developer,course_1,Node JS,topic_6,unit_42,LEARNING_SET,5
+prg_1,Backend Developer,course_1,Node JS,topic_6,unit_43,LEARNING_SET,5
+prg_1,Backend Developer,course_1,Node JS,topic_6,unit_44,LEARNING_SET,5
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_45,LEARNING_SET,45
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_46,LEARNING_SET,40
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_47,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_48,QUESTION_SET,90
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_49,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_50,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_51,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_52,QUESTION_SET,80
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_53,QUESTION_SET,120
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_54,PRACTICE,30
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_55,QUESTION_SET,120
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_56,LEARNING_SET,45
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_57,LEARNING_SET,15
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_58,QUESTION_SET,90
+prg_1,Backend Developer,course_1,Node JS,topic_7,unit_59,LEARNING_SET,55
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_60,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_61,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_62,PRACTICE,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_63,PRACTICE,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_64,PRACTICE,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_65,LEARNING_SET,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_66,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_67,PRACTICE,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_68,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_69,LEARNING_SET,10
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_70,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_71,LEARNING_SET,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_72,PRACTICE,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_73,PRACTICE,30
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_74,LEARNING_SET,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_75,LEARNING_SET,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_76,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_77,LEARNING_SET,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_78,PRACTICE,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_79,LEARNING_SET,20
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_80,PRACTICE,30
+prg_2,English for Beginners,course_2,About Me,topic_8,unit_81,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_9,unit_82,LEARNING_SET,25
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_83,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_84,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_85,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_86,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_87,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_88,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_89,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_90,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_91,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_10,unit_92,EXAM,20
+prg_2,English for Beginners,course_2,About Me,topic_11,unit_93,PRACTICE,15
+prg_2,English for Beginners,course_2,About Me,topic_11,unit_94,LEARNING_SET,20
+prg_2,English for Beginners,course_2,About Me,topic_11,unit_95,PRACTICE,15
+prg_2,English for Beginners,course_3,My Family,topic_12,unit_96,EXAM,30
+prg_2,English for Beginners,course_3,My Family,topic_12,unit_97,EXAM,20
+prg_2,English for Beginners,course_3,My Family,topic_12,unit_98,EXAM,20
+prg_2,English for Beginners,course_3,My Family,topic_13,unit_99,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_13,unit_100,EXAM,30
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_101,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_102,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_103,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_104,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_105,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_106,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_107,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_108,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_109,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_110,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_111,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_112,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_113,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_114,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_115,PRACTICE,10
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_116,PRACTICE,10
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_117,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_118,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_119,LEARNING_SET,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_120,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_121,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_14,unit_122,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_15,unit_123,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_15,unit_124,PRACTICE,20
+prg_2,English for Beginners,course_3,My Family,topic_15,unit_125,LEARNING_SET,20
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_16,unit_126,LEARNING_SET,35
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_17,unit_127,LEARNING_SET,25
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_18,unit_128,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_18,unit_129,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_18,unit_130,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_18,unit_131,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_19,unit_132,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_19,unit_133,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_19,unit_134,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_19,unit_135,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_20,unit_136,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_20,unit_137,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_20,unit_138,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_20,unit_139,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_21,unit_140,LEARNING_SET,45
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_22,unit_141,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_22,unit_142,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_22,unit_143,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_22,unit_144,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_23,unit_145,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_24,unit_146,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_24,unit_147,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_24,unit_148,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_24,unit_149,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_25,unit_150,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_26,unit_151,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_26,unit_152,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_26,unit_153,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_26,unit_154,LEARNING_SET,45
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_27,unit_155,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_28,unit_156,LEARNING_SET,30
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_28,unit_157,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_28,unit_158,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_28,unit_159,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_29,unit_160,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_30,unit_161,LEARNING_SET,35
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_31,unit_162,PRACTICE,15
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_31,unit_163,PRACTICE,15
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_31,unit_164,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_31,unit_165,PRACTICE,15
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_32,unit_166,LEARNING_SET,45
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_32,unit_167,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_32,unit_168,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_32,unit_169,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_33,unit_170,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_33,unit_171,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_33,unit_172,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_33,unit_173,LEARNING_SET,35
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_34,unit_174,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_34,unit_175,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_34,unit_176,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_34,unit_177,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_35,unit_178,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_35,unit_179,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_35,unit_180,LEARNING_SET,40
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_35,unit_181,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_36,unit_182,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_36,unit_183,PRACTICE,10
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_36,unit_184,LEARNING_SET,30
+prg_3,XPM 4.0 Intermediate,course_4,Self - talk,topic_36,unit_185,PRACTICE,10
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_37,unit_186,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_37,unit_187,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_37,unit_188,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_37,unit_189,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_38,unit_190,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_38,unit_191,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_38,unit_192,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_38,unit_193,LEARNING_SET,5
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_39,unit_194,LEARNING_SET,55
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_39,unit_195,LEARNING_SET,50
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_39,unit_196,LEARNING_SET,45
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_40,unit_197,LEARNING_SET,35
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_41,unit_198,LEARNING_SET,55
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_42,unit_199,LEARNING_SET,35
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_42,unit_200,LEARNING_SET,53
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_42,unit_201,LEARNING_SET,20
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_42,unit_202,LEARNING_SET,20
+prg_4,Intro to CCBP 4.0 Intensive,course_5,Introduction,topic_42,unit_203,LEARNING_SET,60
+prg_5,Aptitude,course_6,Input - Output,topic_43,unit_204,LEARNING_SET,30
+prg_5,Aptitude,course_6,Input - Output,topic_43,unit_205,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_43,unit_206,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_43,unit_207,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_43,unit_208,LEARNING_SET,20
+prg_5,Aptitude,course_6,Input - Output,topic_43,unit_209,LEARNING_SET,25
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_210,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_211,LEARNING_SET,20
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_212,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_213,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_214,LEARNING_SET,25
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_215,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_216,LEARNING_SET,20
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_217,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_218,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_219,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_44,unit_220,LEARNING_SET,10
+prg_5,Aptitude,course_6,Input - Output,topic_45,unit_221,PRACTICE,15
+prg_5,Aptitude,course_6,Input - Output,topic_45,unit_222,LEARNING_SET,25
+prg_5,Aptitude,course_7,Verbal Ability,topic_46,unit_223,EXAM,20
+prg_5,Aptitude,course_7,Verbal Ability,topic_46,unit_224,EXAM,40
+prg_5,Aptitude,course_7,Verbal Ability,topic_46,unit_225,EXAM,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_226,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_227,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_228,PRACTICE,5
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_229,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_230,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_231,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_232,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_233,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_234,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_235,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_236,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_237,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_238,LEARNING_SET,35
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_239,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_240,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_241,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_47,unit_242,LEARNING_SET,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_243,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_244,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_245,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_246,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_247,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_248,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_249,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_250,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_251,PRACTICE,5
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_252,PRACTICE,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_253,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_254,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_255,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_256,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_257,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_258,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_259,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_260,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_261,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_262,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_263,PRACTICE,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_264,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_265,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_266,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_267,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_268,LEARNING_SET,35
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_269,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_270,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_271,LEARNING_SET,45
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_272,LEARNING_SET,35
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_273,LEARNING_SET,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_274,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_275,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_276,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_277,LEARNING_SET,35
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_278,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_279,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_280,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_281,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_282,LEARNING_SET,35
+prg_6,Competitive Programming,course_8,Data Structures,topic_48,unit_283,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_284,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_285,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_286,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_287,QUESTION_SET,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_288,PRACTICE,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_289,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_290,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_291,QUESTION_SET,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_292,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_293,LEARNING_SET,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_294,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_295,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_296,LEARNING_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_297,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_298,LEARNING_SET,55
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_299,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_300,QUESTION_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_301,LEARNING_SET,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_302,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_303,QUESTION_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_304,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_305,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_306,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_307,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_308,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_309,LEARNING_SET,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_310,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_311,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_312,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_313,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_314,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_315,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_316,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_317,PRACTICE,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_318,QUESTION_SET,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_49,unit_319,LEARNING_SET,35
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_320,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_321,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_322,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_323,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_324,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_325,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_326,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_327,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_328,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_329,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_50,unit_330,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_51,unit_331,QUESTION_SET,120
+prg_6,Competitive Programming,course_8,Data Structures,topic_51,unit_332,PRACTICE,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_51,unit_333,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_51,unit_334,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_51,unit_335,QUESTION_SET,120
+prg_6,Competitive Programming,course_8,Data Structures,topic_51,unit_336,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_51,unit_337,EXAM,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_338,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_339,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_340,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_341,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_342,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_343,PRACTICE,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_344,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_345,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_346,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_347,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_348,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_349,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_350,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_351,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_352,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_353,LEARNING_SET,50
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_354,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_355,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_356,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_357,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_358,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_359,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_360,PRACTICE,5
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_361,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_362,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_363,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_364,PRACTICE,5
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_365,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_366,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_367,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_368,LEARNING_SET,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_369,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_370,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_371,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_372,LEARNING_SET,50
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_373,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_374,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_375,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_376,LEARNING_SET,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_377,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_378,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_379,LEARNING_SET,50
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_380,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_381,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_382,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_383,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_384,LEARNING_SET,55
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_385,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_386,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_52,unit_387,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_388,PRACTICE,5
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_389,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_390,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_391,LEARNING_SET,35
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_392,QUESTION_SET,120
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_393,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_394,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_395,LEARNING_SET,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_396,PRACTICE,10
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_397,LEARNING_SET,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_398,QUESTION_SET,120
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_399,QUESTION_SET,180
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_400,PRACTICE,25
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_401,LEARNING_SET,45
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_402,QUESTION_SET,120
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_403,LEARNING_SET,45
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_404,LEARNING_SET,40
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_405,LEARNING_SET,45
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_406,QUESTION_SET,180
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_407,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_53,unit_408,PRACTICE,5
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_409,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_410,QUESTION_SET,120
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_411,PRACTICE,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_412,QUESTION_SET,120
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_413,LEARNING_SET,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_414,EXAM,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_415,PRACTICE,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_416,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_417,EXAM,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_418,EXAM,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_419,QUESTION_SET,90
+prg_6,Competitive Programming,course_8,Data Structures,topic_54,unit_420,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_421,EXAM,30
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_422,PRACTICE,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_423,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_424,PRACTICE,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_425,LEARNING_SET,20
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_426,QUESTION_SET,60
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_427,PRACTICE,15
+prg_6,Competitive Programming,course_8,Data Structures,topic_55,unit_428,LEARNING_SET,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_56,unit_429,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_56,unit_430,PRACTICE,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_56,unit_431,LEARNING_SET,25
+prg_2,English for Beginners,course_9,My Daily routine,topic_56,unit_432,LEARNING_SET,25
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_433,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_434,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_435,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_436,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_437,LEARNING_SET,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_438,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_439,LEARNING_SET,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_440,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_441,LEARNING_SET,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_442,LEARNING_SET,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_443,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_57,unit_444,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_58,unit_445,EXAM,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_58,unit_446,EXAM,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_58,unit_447,EXAM,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_58,unit_448,EXAM,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_59,unit_449,PRACTICE,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_59,unit_450,LEARNING_SET,25
+prg_2,English for Beginners,course_9,My Daily routine,topic_59,unit_451,PRACTICE,20
+prg_2,English for Beginners,course_9,My Daily routine,topic_59,unit_452,LEARNING_SET,25
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_453,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_454,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_455,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_456,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_457,LEARNING_SET,25
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_458,LEARNING_SET,25
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_459,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_460,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_461,PRACTICE,15
+prg_2,English for Beginners,course_9,My Daily routine,topic_60,unit_462,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_61,unit_463,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_61,unit_464,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_61,unit_465,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_61,unit_466,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_62,unit_467,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_62,unit_468,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_62,unit_469,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_63,unit_470,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_63,unit_471,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_63,unit_472,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_63,unit_473,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_63,unit_474,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_63,unit_475,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_476,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_477,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_478,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_479,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_480,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_481,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_482,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_64,unit_483,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_65,unit_484,EXAM,30
+prg_2,English for Beginners,course_10,My Past & Future,topic_65,unit_485,EXAM,30
+prg_2,English for Beginners,course_10,My Past & Future,topic_65,unit_486,EXAM,30
+prg_2,English for Beginners,course_10,My Past & Future,topic_66,unit_487,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_66,unit_488,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_66,unit_489,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_66,unit_490,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_66,unit_491,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_66,unit_492,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_66,unit_493,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_67,unit_494,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_67,unit_495,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_67,unit_496,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_67,unit_497,LEARNING_SET,25
+prg_2,English for Beginners,course_10,My Past & Future,topic_67,unit_498,PRACTICE,20
+prg_2,English for Beginners,course_10,My Past & Future,topic_67,unit_499,PRACTICE,15
+prg_2,English for Beginners,course_10,My Past & Future,topic_67,unit_500,PRACTICE,15
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_501,EXAM,20
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_502,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_503,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_504,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_505,QUESTION_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_506,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_507,QUESTION_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_508,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_509,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_510,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_511,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_512,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_513,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_514,EXAM,10
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_515,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_516,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_517,QUESTION_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_518,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_519,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_520,EXAM,15
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_521,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_522,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_523,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_524,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_525,LEARNING_SET,20
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_526,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_527,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_528,EXAM,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_529,EXAM,15
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_530,EXAM,15
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_531,LEARNING_SET,30
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_532,EXAM,20
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_533,LEARNING_SET,40
+prg_7,Tech Foundations,course_11,Practical Python,topic_68,unit_534,LEARNING_SET,30
+prg_8,Masterclass with Srividya Pranavi,course_12,Srividya Pranavi,topic_69,unit_535,LEARNING_SET,45
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_536,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_537,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_538,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_539,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_540,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_541,EXAM,40
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_542,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_543,LEARNING_SET,10
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_544,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_545,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_546,LEARNING_SET,10
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_547,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_70,unit_548,LEARNING_SET,10
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_71,unit_549,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_71,unit_550,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_71,unit_551,EXAM,10
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_72,unit_552,LEARNING_SET,8
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_72,unit_553,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_72,unit_554,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_72,unit_555,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_72,unit_556,EXAM,15
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_73,unit_557,LEARNING_SET,20
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_558,LEARNING_SET,10
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_559,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_560,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_561,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_562,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_563,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_564,EXAM,20
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_74,unit_565,LEARNING_SET,20
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_75,unit_566,PRACTICE,7
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_75,unit_567,EXAM,25
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_75,unit_568,LEARNING_SET,12
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_75,unit_569,LEARNING_SET,8
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_75,unit_570,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_76,unit_571,EXAM,45
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_76,unit_572,EXAM,45
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_573,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_574,LEARNING_SET,10
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_575,EXAM,15
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_576,LEARNING_SET,8
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_577,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_578,PRACTICE,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_579,LEARNING_SET,10
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_580,LEARNING_SET,5
+prg_9,Instruction Flows,course_13,Instruction Flows,topic_77,unit_581,PRACTICE,3
+prg_5,Aptitude,course_14,Logical Reasoning,topic_78,unit_582,PRACTICE,15
+prg_5,Aptitude,course_14,Logical Reasoning,topic_78,unit_583,LEARNING_SET,35
+prg_5,Aptitude,course_14,Logical Reasoning,topic_79,unit_584,PRACTICE,15
+prg_5,Aptitude,course_14,Logical Reasoning,topic_79,unit_585,LEARNING_SET,35
+prg_5,Aptitude,course_14,Logical Reasoning,topic_80,unit_586,LEARNING_SET,35
+prg_5,Aptitude,course_14,Logical Reasoning,topic_80,unit_587,PRACTICE,15
+prg_5,Aptitude,course_14,Logical Reasoning,topic_81,unit_588,PRACTICE,15
+prg_5,Aptitude,course_14,Logical Reasoning,topic_81,unit_589,LEARNING_SET,30
+prg_5,Aptitude,course_14,Logical Reasoning,topic_82,unit_590,LEARNING_SET,25
+prg_5,Aptitude,course_14,Logical Reasoning,topic_82,unit_591,PRACTICE,15
+prg_5,Aptitude,course_14,Logical Reasoning,topic_83,unit_592,PRACTICE,15
+prg_5,Aptitude,course_14,Logical Reasoning,topic_83,unit_593,LEARNING_SET,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_84,unit_594,LEARNING_SET,26
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_84,unit_595,LEARNING_SET,20
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_84,unit_596,LEARNING_SET,24
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_84,unit_597,EXAM,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_84,unit_598,LEARNING_SET,37
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_84,unit_599,LEARNING_SET,26
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_85,unit_600,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_85,unit_601,EXAM,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_85,unit_602,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_85,unit_603,EXAM,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_85,unit_604,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_86,unit_605,LEARNING_SET,11
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_86,unit_606,LEARNING_SET,34
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_86,unit_607,LEARNING_SET,23
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_86,unit_608,EXAM,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_86,unit_609,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_610,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_611,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_612,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_613,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_614,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_615,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_616,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_617,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_618,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_619,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_620,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_621,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_622,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_623,LEARNING_SET,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_87,unit_624,LEARNING_SET,10
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_625,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_626,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_627,QUESTION_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_628,PRACTICE,10
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_629,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_630,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_631,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_88,unit_632,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_633,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_634,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_635,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_636,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_637,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_638,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_639,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_640,LEARNING_SET,15
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_641,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_642,QUESTION_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_643,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_89,unit_644,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_90,unit_645,EXAM,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_90,unit_646,LEARNING_SET,70
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_90,unit_647,LEARNING_SET,65
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_90,unit_648,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_91,unit_649,PROJECT,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_91,unit_650,LEARNING_SET,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_91,unit_651,PROJECT,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_91,unit_652,PROJECT,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_91,unit_653,PROJECT,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_92,unit_654,LEARNING_SET,5
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_92,unit_655,LEARNING_SET,5
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_92,unit_656,LEARNING_SET,10
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_657,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_658,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_659,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_660,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_661,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_662,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_663,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_664,QUESTION_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_665,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_93,unit_666,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_94,unit_667,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_94,unit_668,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_94,unit_669,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_94,unit_670,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_95,unit_671,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_95,unit_672,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_95,unit_673,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_95,unit_674,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_95,unit_675,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_95,unit_676,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_95,unit_677,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_678,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_679,EXAM,15
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_680,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_681,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_682,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_683,EXAM,20
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_684,EXAM,15
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_685,EXAM,20
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_686,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_687,EXAM,10
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_688,EXAM,15
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_96,unit_689,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_690,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_691,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_692,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_693,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_694,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_695,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_696,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_697,EXAM,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_698,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_699,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_97,unit_700,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_701,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_702,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_703,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_704,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_705,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_706,LEARNING_SET,25
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_707,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_708,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_709,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_710,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_711,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_98,unit_712,LEARNING_SET,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_99,unit_713,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_99,unit_714,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_99,unit_715,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_99,unit_716,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_99,unit_717,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_99,unit_718,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_719,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_720,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_721,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_722,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_723,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_724,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_725,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_100,unit_726,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_101,unit_727,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_101,unit_728,LEARNING_SET,75
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_729,EXAM,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_730,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_731,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_732,EXAM,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_733,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_734,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_735,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_102,unit_736,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_103,unit_737,QUESTION_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_103,unit_738,QUESTION_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_103,unit_739,LEARNING_SET,15
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_103,unit_740,LEARNING_SET,55
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_103,unit_741,QUESTION_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_103,unit_742,LEARNING_SET,20
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_743,LEARNING_SET,45
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_744,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_745,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_746,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_747,QUESTION_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_748,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_749,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_104,unit_750,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_751,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_752,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_753,LEARNING_SET,65
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_754,LEARNING_SET,70
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_755,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_756,LEARNING_SET,70
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_757,LEARNING_SET,35
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_758,LEARNING_SET,70
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_759,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_105,unit_760,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_106,unit_761,EXAM,20
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_106,unit_762,LEARNING_SET,90
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_106,unit_763,LEARNING_SET,5
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_764,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_765,LEARNING_SET,60
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_766,LEARNING_SET,40
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_767,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_768,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_769,LEARNING_SET,50
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_770,LEARNING_SET,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_771,EXAM,30
+prg_10,AI-ML,course_15,Fundamentals of ML,topic_107,unit_772,LEARNING_SET,45
+prg_11,Understanding 5G,course_16,MASTERCLASS SERIES,topic_108,unit_773,LEARNING_SET,50
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_109,unit_774,LEARNING_SET,40
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_110,unit_775,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_110,unit_776,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_110,unit_777,LEARNING_SET,35
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_110,unit_778,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_111,unit_779,EXAM,30
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_111,unit_780,EXAM,30
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_111,unit_781,EXAM,30
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_111,unit_782,LEARNING_SET,70
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_111,unit_783,EXAM,30
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_111,unit_784,EXAM,30
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_111,unit_785,EXAM,30
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_112,unit_786,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_112,unit_787,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_112,unit_788,LEARNING_SET,40
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_112,unit_789,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_113,unit_790,LEARNING_SET,50
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_114,unit_791,LEARNING_SET,35
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_115,unit_792,LEARNING_SET,35
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_115,unit_793,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_115,unit_794,EXAM,10
+prg_12,XPM 4.0 Fundamentals,course_17,Setting Priorities,topic_115,unit_795,EXAM,10
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_796,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_797,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_798,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_799,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_800,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_801,LEARNING_SET,45
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_802,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_803,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_804,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_805,LEARNING_SET,50
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_806,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_807,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_808,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_809,LEARNING_SET,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_810,LEARNING_SET,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_811,LEARNING_SET,40
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_812,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_813,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_814,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_815,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_816,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_817,LEARNING_SET,45
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_818,LEARNING_SET,50
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_819,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_820,LEARNING_SET,50
+prg_5,Aptitude,course_18,Test Based Learning,topic_116,unit_821,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_117,unit_822,EXAM,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_823,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_824,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_825,PRACTICE,15
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_826,LEARNING_SET,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_827,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_828,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_829,EXAM,35
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_830,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_831,PRACTICE,15
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_832,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_833,LEARNING_SET,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_834,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_835,PRACTICE,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_836,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_837,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_838,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_839,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_840,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_841,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_842,EXAM,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_843,LEARNING_SET,60
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_844,LEARNING_SET,30
+prg_5,Aptitude,course_18,Test Based Learning,topic_118,unit_845,EXAM,90
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_119,unit_846,QUESTION_SET,120
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_119,unit_847,QUESTION_SET,120
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_119,unit_848,QUESTION_SET,120
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_120,unit_849,EXAM,120
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_120,unit_850,EXAM,120
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_120,unit_851,EXAM,120
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_121,unit_852,EXAM,45
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_121,unit_853,EXAM,45
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_121,unit_854,EXAM,45
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_122,unit_855,EXAM,30
+prg_13,Self Assessment,course_19,Test Your Knowledge,topic_123,unit_856,EXAM,45
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_124,unit_857,LEARNING_SET,50
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_124,unit_858,PRACTICE,10
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_125,unit_859,LEARNING_SET,45
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_125,unit_860,LEARNING_SET,60
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_125,unit_861,LEARNING_SET,50
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_126,unit_862,PRACTICE,5
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_126,unit_863,LEARNING_SET,60
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_127,unit_864,PRACTICE,10
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_127,unit_865,LEARNING_SET,105
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_128,unit_866,LEARNING_SET,50
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_128,unit_867,PRACTICE,5
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_129,unit_868,LEARNING_SET,60
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_129,unit_869,PRACTICE,5
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_130,unit_870,PRACTICE,10
+prg_14,CCBP 4.0 Academy - Intro,course_20,CCBP 4.0 Introduction,topic_130,unit_871,LEARNING_SET,50
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_131,unit_872,PRACTICE,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_131,unit_873,LEARNING_SET,45
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_131,unit_874,LEARNING_SET,40
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_131,unit_875,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_131,unit_876,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_131,unit_877,PRACTICE,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_878,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_879,PRACTICE,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_880,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_881,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_882,LEARNING_SET,40
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_883,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_884,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_885,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_886,PRACTICE,15
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_887,LEARNING_SET,10
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_888,LEARNING_SET,45
+prg_7,Tech Foundations,course_21,Developer Foundations,topic_132,unit_889,LEARNING_SET,5
